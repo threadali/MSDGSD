@@ -1,0 +1,12 @@
+Dataset=ER10k.gxl
+Avg Execution time 60.20662353515763
+Avg Communicaiton time 8658.185134067535
+W=50Finished in 11429.51 second(s) <_MainProcess name='MainProcess' parent=None started>
+Dataset=facebook_g.gxl
+Avg Execution time 5.847235078811536
+Avg Communicaiton time 1391.4797724294663
+W=50Finished in 1805.78 second(s) <_MainProcess name='MainProcess' parent=None started>
+Dataset=github_g.gxl
+Avg Execution time 325.17731820106565
+Avg Communicaiton time 118234.10408683777
+W=50Finished in 149421.22 second(s) <_MainProcess name='MainProcess' parent=None started>

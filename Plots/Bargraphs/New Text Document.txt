@@ -1,0 +1,6 @@
+DGSD
+PDGSD (DGSD with parallesim - worker is now proper server)
+MSDGSD (DGSD with multiple servers)
+MSDGSD-B (MSDGSD with batching)
+MSDGSD-BU (MSDGSD-B with loaded task to server)
+MSDGSD-BUH (MSDGSD-BU considering only 3 level top 60% Hub nodes in neighbours for computing distance)

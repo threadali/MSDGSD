@@ -1,0 +1,8 @@
+for 40 avg nodes
+W=4Finished in 0.73 second(s) <_MainProcess name='MainProcess' parent=None started>
+W=8Finished in 0.39 second(s) <_MainProcess name='MainProcess' parent=None started>
+W=16Finished in 0.54 second(s) <_MainProcess name='MainProcess' parent=None started>
+W=32Finished in 0.59 second(s) <_MainProcess name='MainProcess' parent=None started>
+W=64Finished in 0.92 second(s) <_MainProcess name='MainProcess' parent=None started>
+W=80Finished in 0.96 second(s) <_MainProcess name='MainProcess' parent=None started>
+W=100Finished in 1.09 second(s) <_MainProcess name='MainProcess' parent=None started>

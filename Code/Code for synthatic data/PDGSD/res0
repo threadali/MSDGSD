@@ -1,0 +1,64 @@
+Dataset=ER1k.gxl
+Avg Execution time 1.0217070341110173
+Avg Communicaiton time 101.30137634277344
+W=10Finished in 107.76 second(s) <_MainProcess name='MainProcess' parent=None started>
+Avg Execution time 0.32065966129303547
+Avg Communicaiton time 64.02607715129852
+W=30Finished in 70.42 second(s) <_MainProcess name='MainProcess' parent=None started>
+Avg Execution time 0.1785810947418227
+Avg Communicaiton time 47.03677226066589
+W=50Finished in 53.21 second(s) <_MainProcess name='MainProcess' parent=None started>
+Avg Execution time 0.11943952143192149
+Avg Communicaiton time 45.49026080965996
+W=80Finished in 59.53 second(s) <_MainProcess name='MainProcess' parent=None started>
+Avg Execution time 0.06491224765777304
+Avg Communicaiton time 39.05514951546987
+W=150Finished in 61.12 second(s) <_MainProcess name='MainProcess' parent=None started>
+Dataset=ER5k.gxl
+Avg Execution time 28.68939309120151
+Avg Communicaiton time 3143.469475531578
+W=10Finished in 3222.41 second(s) <_MainProcess name='MainProcess' parent=None started>
+Avg Execution time 8.81250841617566
+Avg Communicaiton time 2145.974558019638
+W=30Finished in 2190.71 second(s) <_MainProcess name='MainProcess' parent=None started>
+Avg Execution time 4.72997024059282
+Avg Communicaiton time 1394.0258787298203
+W=50Finished in 1434.91 second(s) <_MainProcess name='MainProcess' parent=None started>
+Avg Execution time 3.0660360962153845
+Avg Communicaiton time 1194.7029133349656
+W=80Finished in 1589.38 second(s) <_MainProcess name='MainProcess' parent=None started>
+Avg Execution time 1.6573496580124356
+Avg Communicaiton time 1052.3217952187856
+W=150Finished in 1601.36 second(s) <_MainProcess name='MainProcess' parent=None started>
+Dataset=ER10k.gxl
+Avg Execution time 112.44806809425427
+Avg Communicaiton time 12118.893861293793
+W=10Finished in 12284.31 second(s) <_MainProcess name='MainProcess' parent=None started>
+Avg Execution time 34.696845499674055
+Avg Communicaiton time 7773.130320286751
+W=30Finished in 7857.69 second(s) <_MainProcess name='MainProcess' parent=None started>
+Avg Execution time 18.74641031742067
+Avg Communicaiton time 5176.15221982956
+W=50Finished in 5257.64 second(s) <_MainProcess name='MainProcess' parent=None started>
+Avg Execution time 12.532934203743935
+Avg Communicaiton time 4685.760025238991
+W=80Finished in 6262.23 second(s) <_MainProcess name='MainProcess' parent=None started>
+Avg Execution time 6.54484474182118
+Avg Communicaiton time 3817.1393971888224
+W=150Finished in 6895.77 second(s) <_MainProcess name='MainProcess' parent=None started>
+Dataset=ER25k.gxl
+Avg Execution time 653.1460281133623
+Avg Communicaiton time 71697.28645973206
+W=10Finished in 72519.22 second(s) <_MainProcess name='MainProcess' parent=None started>
+Avg Execution time 201.80311052004254
+Avg Communicaiton time 46476.0458010753
+W=30Finished in 46913.61 second(s) <_MainProcess name='MainProcess' parent=None started>
+Avg Execution time 135.55390166283178
+Avg Communicaiton time 34474.19454340458
+W=50Finished in 38263.14 second(s) <_MainProcess name='MainProcess' parent=None started>
+Avg Execution time 83.80234459936764
+Avg Communicaiton time 34606.26635405123
+W=80Finished in 55234.39 second(s) <_MainProcess name='MainProcess' parent=None started>
+Avg Execution time 45.25967130820209
+Avg Communicaiton time 31251.324961946804
+W=150Finished in 57047.49 second(s) <_MainProcess name='MainProcess' parent=None started>

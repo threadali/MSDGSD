@@ -1,0 +1,319 @@
+MUTAG
+20
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+max arr [0.8833333333333334, 0.8883040935672515, 0.8839181286549709, 0.8830409356725146, 0.888888888888889, 0.8830409356725146, 0.8941520467836257, 0.882748538011696, 0.8885964912280702, 0.8883040935672515]
+mean score: 0.8864327485380116
+100
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+max arr [0.8833333333333334, 0.8833333333333334, 0.8891812865497076, 0.8885964912280702, 0.8833333333333334, 0.8830409356725146, 0.888888888888889, 0.8880116959064328, 0.8885964912280702, 0.8830409356725146]
+mean score: 0.8859356725146199
+200
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+max arr [0.8780701754385966, 0.8885964912280702, 0.8891812865497076, 0.8836257309941521, 0.8836257309941521, 0.8880116959064326, 0.8941520467836257, 0.882748538011696, 0.8883040935672513, 0.8833333333333334]
+mean score: 0.8859649122807017
+500
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+max arr [0.8833333333333334, 0.8833333333333334, 0.8891812865497076, 0.8833333333333334, 0.8883040935672515, 0.8883040935672515, 0.888888888888889, 0.8880116959064328, 0.8885964912280702, 0.8885964912280702]
+mean score: 0.8869883040935672
+PROTEINS
+20
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+max arr [0.7429938867438868, 0.7394305019305019, 0.7439591377091377, 0.7429938867438868, 0.7392937580437581, 0.7412805662805663, 0.7358268983268983, 0.7456885456885457, 0.7394787644787646, 0.7439269626769626]
+mean score: 0.7414872908622908
+100
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+max arr [0.7465894465894467, 0.7448359073359072, 0.7465974903474903, 0.743918918918919, 0.7447072072072072, 0.7466698841698842, 0.7421734234234234, 0.7439350064350065, 0.7412323037323036, 0.7439350064350065]
+mean score: 0.7444594594594595
+200
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+max arr [0.7421010296010296, 0.7484958172458172, 0.7430019305019304, 0.7474903474903475, 0.7509732947232948, 0.7457368082368083, 0.7448841698841699, 0.745744851994852, 0.743050193050193, 0.7421492921492922]
+mean score: 0.7453627734877735
+500
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+max arr [0.7393822393822392, 0.7412805662805664, 0.742125160875161, 0.7448037323037323, 0.7446830759330759, 0.7457287644787645, 0.7377010939510938, 0.7421412483912484, 0.7376206563706564, 0.7403716216216216]
+mean score: 0.741583815958816
+PTC_MR
+20
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+max arr [0.5583193277310924, 0.5786554621848738, 0.5842016806722689, 0.5639495798319327, 0.5698319327731092, 0.593109243697479, 0.5851260504201681, 0.5674789915966387, 0.5815126050420167, 0.5872268907563024]
+mean score: 0.5769411764705882
+100
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+max arr [0.5837815126050421, 0.593109243697479, 0.5954621848739496, 0.6071428571428572, 0.5902521008403361, 0.6136974789915967, 0.5821848739495799, 0.5935294117647059, 0.6015966386554622, 0.5989075630252101]
+mean score: 0.5959663865546219
+200
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+max arr [0.5897478991596639, 0.5958823529411765, 0.5984873949579832, 0.5892436974789916, 0.5841176470588235, 0.6105042016806723, 0.6053781512605042, 0.593109243697479, 0.593109243697479, 0.6105042016806722]
+mean score: 0.5970084033613445
+500
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+max arr [0.5812605042016806, 0.5957983193277311, 0.5984033613445379, 0.5963025210084034, 0.5928571428571429, 0.6078151260504201, 0.5996638655462184, 0.5934453781512605, 0.6047058823529412, 0.5958823529411765]
+mean score: 0.5966134453781512
+AIDS
+20
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+max arr [0.9960000000000001, 0.9964999999999999, 0.9964999999999999, 0.9964999999999998, 0.9964999999999999, 0.9964999999999999, 0.9964999999999998, 0.9964999999999998, 0.9964999999999999, 0.9959999999999999]
+mean score: 0.9964000000000001
+100
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+max arr [0.9960000000000001, 0.9964999999999999, 0.9959999999999999, 0.9964999999999998, 0.9964999999999999, 0.9964999999999999, 0.9964999999999998, 0.9964999999999998, 0.9964999999999999, 0.9964999999999998]
+mean score: 0.9963999999999998
+200
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+max arr [0.9964999999999999, 0.9964999999999999, 0.9964999999999999, 0.9964999999999998, 0.9964999999999999, 0.9964999999999999, 0.9964999999999998, 0.9964999999999998, 0.9964999999999999, 0.9959999999999999]
+mean score: 0.99645
+500
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+max arr [0.9964999999999999, 0.9964999999999999, 0.9959999999999999, 0.9964999999999998, 0.9964999999999999, 0.9964999999999999, 0.9964999999999998, 0.9964999999999998, 0.9964999999999999, 0.9959999999999999]
+mean score: 0.9963999999999998
+NCI1
+20
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+max arr [0.7357664233576642, 0.7340632603406325, 0.7309002433090024, 0.7343065693430658, 0.7287104622871046, 0.7330900243309002, 0.7299270072992702, 0.7355231143552311, 0.7311435523114355, 0.7299270072992701]
+mean score: 0.7323357664233576
+100
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+max arr [0.7408759124087592, 0.7420924574209246, 0.7396593673965937, 0.7384428223844283, 0.7367396593673966, 0.7367396593673966, 0.7369829683698297, 0.7442822384428225, 0.7381995133819951, 0.7386861313868612]
+mean score: 0.7392700729927008
+200
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+max arr [0.74330900243309, 0.7413625304136253, 0.737956204379562, 0.7401459854014599, 0.7389294403892944, 0.7389294403892944, 0.737956204379562, 0.7442822384428223, 0.7389294403892944, 0.7428223844282239]
+mean score: 0.7404622871046229
+500
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+max arr [0.7442822384428224, 0.7413625304136253, 0.7386861313868612, 0.7391727493917275, 0.7364963503649634, 0.7360097323600974, 0.7364963503649634, 0.7428223844282238, 0.737956204379562, 0.7377128953771289]
+mean score: 0.7390997566909975
+NCI109
+20
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+max arr [0.7136063377136276, 0.7172194927008156, 0.7189179341310328, 0.7220797385928207, 0.7198976233573896, 0.7131032699405251, 0.7172224311807988, 0.7201509203319307, 0.7123792284726955, 0.718200357319166]
+mean score: 0.7172777333740802
+100
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+max arr [0.7286290227790968, 0.7327176238275465, 0.7305454994240579, 0.7346811161522369, 0.7305625426079597, 0.7259450151625567, 0.7293430734149838, 0.7281353581419403, 0.7259550059944991, 0.7293465995909635]
+mean score: 0.729586085709584
+DD
+20
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+max arr [0.7792191800666377, 0.7767854555990149, 0.7749674054758801, 0.7844343039258292, 0.7767419962335216, 0.7800811241489207, 0.7775387512675648, 0.7801028538316673, 0.7826959293060988, 0.7793278284803709]
+mean score: 0.7791894828335506
+100
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+Fitting 10 folds for each of 45 candidates, totalling 450 fits
+max arr [0.7843328987396785, 0.7844198174706649, 0.7919600173837462, 0.7903809937708244, 0.7877299724757352, 0.7860640301318267, 0.7843039258293496, 0.7859988410835868, 0.7843256555120962, 0.7869404606692741]
+mean score: 0.7866456613066782

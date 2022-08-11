@@ -1,0 +1,5 @@
+Dataset=ER5k.gxl
+S=2
+Avg Execution time 2.410587882995607
+Avg Communicaiton time 52.62601812362671
+W=50Finished in 57.16 second(s) <_MainProcess name='MainProcess' parent=None started>
